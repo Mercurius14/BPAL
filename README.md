@@ -121,7 +121,7 @@ Once the installation and data download steps are completed, you finally need to
 Once data has been downloaded and the previous installation steps done, you can run the full test suite to make sure features are loaded correctly. You first need to add specific requirements via:
 
 ```
-python -m pip install -r requirements-tests.txt
+python -m pip install -r requirements.txt
 ```
 
 or
